@@ -29,7 +29,8 @@
 }
 
 .welcomeMessage {
-    margin-top: 12%;
+    margin-top: 3%; 
+        /* what 12% */
     margin-bottom: 3%;
 }
 
@@ -47,8 +48,8 @@
 
 .carousel-inner > .carousel-item > .d-block {
     margin: auto;
-    margin-bottom: 20%;
-    /* padding-bottom: 10%; */
+    /* margin-bottom: 20%; */
+    padding-bottom: 10%;
     /* max-height: auto;
     max-width: auto; */
 }
@@ -56,10 +57,10 @@
 .hero { 
     background-image: url('/assets/hero.jpeg');
     background-size: cover cover;
-    max-height: 575px;
+    max-height: 600px;
     background-attachment: fixed;
     background-position: center;
-    background-position-y: 6rem;
+    background-position-y: 5rem;
     /* background-position-x: -6rem; */
     background-repeat: no-repeat;
     /* background-size: cover; */
@@ -71,7 +72,7 @@
 } 
 
 .viewing {
-    height: 100vh;
+    height: 80vh;
     width: 100vw;
     /* margin:0%;  */
 }
