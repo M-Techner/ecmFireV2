@@ -1,0 +1,30 @@
+footer {
+    background-color:  rgb(169, 88, 38);
+    margin-top: 1rem;
+    /* margin-left: -15px;
+    margin-right: -15px; */
+    width: 100%;
+    max-height: auto;
+    position:fixed;
+    bottom:0px;
+    
+}
+
+.img-responsive {
+    max-width: 75%;
+}
+/* 
+.footerDiv {
+    max-width: 100%;
+    margin-top: 1rem;
+} */
+
+.logo {
+    max-width: 35%;
+    margin-left: 2%;
+}
+
+/* .social {
+    color: white;
+    margin-left: 5%;
+} */

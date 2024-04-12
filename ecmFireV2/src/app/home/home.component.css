@@ -1,0 +1,79 @@
+
+.ECM{
+    font-family: 'Montserrat', sans-serif, bold;
+    text-align:center;
+    font-size: 30px; 
+    /* font-size-adjust: 0.5; */
+    /* margin: 5rem 0 5rem 0; */
+}
+
+.img-responsive {
+    max-width: auto;
+    max-height: 100%;
+    /* width: 100%;
+    height: auto; 
+    object-fit: cover; */
+}
+
+.lndbtn {
+    background-color: #5c93ce;
+    color: #000000;
+}
+
+/* .landingContainer {
+    margin-bottom: 5%; */
+/* } */
+
+.welcome-text {
+    line-height: 2;
+}
+
+.welcomeMessage {
+    margin-top: 12%;
+    margin-bottom: 3%;
+}
+
+
+/* .spacer {
+    visibility: hidden;
+} */
+/* .CTA {
+    margin-top: 5%;
+} */
+
+/* .carousel-inner > .carousel-item > .d-block {
+    margin: auto;
+} */
+
+.carousel-inner > .carousel-item > .d-block {
+    margin: auto;
+    margin-bottom: 20%;
+    /* padding-bottom: 10%; */
+    /* max-height: auto;
+    max-width: auto; */
+}
+
+.hero { 
+    background-image: url('/assets/hero.jpeg');
+    background-size: cover cover;
+    max-height: 575px;
+    background-attachment: fixed;
+    background-position: center;
+    background-position-y: 6rem;
+    /* background-position-x: -6rem; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    opacity: .7;
+    /* max-width: auto; */
+    /* max-height: 100%; */
+    /* margin: -8px 0 0 -6px; */
+    /* margin-top: auto; */
+} 
+
+.viewing {
+    height: 100vh;
+    width: 100vw;
+    /* margin:0%;  */
+}
+/* background: url(./942775.png) no-repeat center center fixed;
+background-size: cover; */
