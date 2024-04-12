@@ -11,7 +11,7 @@ footer {
 }
 
 .img-responsive {
-    max-width: 75%;
+    max-width: 55%;
 }
 /* 
 .footerDiv {
@@ -21,7 +21,7 @@ footer {
 
 .logo {
     max-width: 35%;
-    margin-left: 2%;
+    /* margin-left: 2%; */
 }
 
 /* .social {

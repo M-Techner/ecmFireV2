@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "index.html",
+    "public": "dist/ecm-fire-v2/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
