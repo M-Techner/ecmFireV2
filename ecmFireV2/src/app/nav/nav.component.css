@@ -9,15 +9,16 @@
     font-family: 'Times New Roman SC', serif,  bold;
     color: white;
     margin-left: 2%;
-    font-size: 28px; 
+    font-size: 30px; 
     /* font-size-adjust: 0.5; */
 }
 
 .logo2 {
   font-family: 'Times New Roman SC', serif,  bold;
+  text-align:left;
   color: white;
-  margin-left: 2%;
-  font-size: 18px; 
+  /* margin-left: 2%; */
+  font-size: 16px; 
   /* font-size-adjust: 0.5; */
 } 
 
@@ -27,7 +28,7 @@
 } */
 
 .nav-item > .nav-link {
-    align-items :end;    
+    align-items :flex-end;    
     /* padding-left: .5%; */
     margin-right: 1%;
     /* justify-content:center; */

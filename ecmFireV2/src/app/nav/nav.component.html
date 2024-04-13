@@ -22,16 +22,16 @@
 
 <nav class="navbar sticky navbar-expand-md navbar-dark" style="background-color: rgb(61, 73, 43)">
 
-    <!-- for mobile: hide on md and wider screens -->
+    <!-- for mobile: hide on lg and wider screens (<=991px)-->
     <div class="col d-lg-none">
-        <a class="logo2 nav-link" href="/home">Equine Care and Management</a>
+        <a class="navbar-brand logo2 nav-link" href="/home">Equine Care and Management</a>
     </div>
     
 
-    <!-- >for comps: hide on screens smaller than lg -->
-    <div class="col d-none d-lg-block">
+    <!-- >for comps: hide on screens smaller than lg (>992px) -->
+    <div class="col-xl-6 d-none d-lg-block">
         <!-- <div class="col-6"> -->
-        <a class="logo1 nav-link" href="/home">Equine Care and Management</a>
+        <a class="navbar-brand logo1 nav-link" href="/home">Equine Care and Management</a>
     </div>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
@@ -39,11 +39,12 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     
-    <div class="container-flex collapse navbar-collapse" id="navbarTogglerDemo02">
-        <div id="navbar" style="background-color: rgb(61, 73, 43);">
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <!-- <div id="navbar" style="background-color: rgb(61, 73, 43);"> -->
 
-            <ul class="navbar-nav width:100%">
-
+            <!-- <ul class="navbar-nav width:auto"> -->
+                <!-- <ul class="navbar-nav mr-auto mt-2 mt-md-0"> -->
+                    <ul class="navbar-nav mr-auto mt-2 mt-md-0">
 <!-- Regular nav bar items NavBar issues w/ spacing, etc...-->
 
             <!-- <li class="nav-item" style="margin-left:auto">
@@ -68,7 +69,7 @@
     <!-- </div> -->
         </ul>
     </div>
-</div>
+<!-- </div> -->
 <!-- 
     <div id="navbar">
         <a href="/home">Home</a>
