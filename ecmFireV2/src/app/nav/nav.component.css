@@ -18,7 +18,7 @@
   text-align:left;
   color: white;
   /* margin-left: 2%; */
-  font-size: 16px; 
+  font-size: 18px; 
   /* font-size-adjust: 0.5; */
 } 
 
@@ -28,7 +28,7 @@
 } */
 
 .nav-item > .nav-link {
-    align-items :flex-end;    
+    align-items :end;    
     /* padding-left: .5%; */
     margin-right: 1%;
     /* justify-content:center; */
