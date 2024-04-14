@@ -29,9 +29,14 @@
     text-align: center;
 }
 
+.pad {
+    padding-top: 10%;
+}
+
 html, body {
     width: auto!important; 
-    overflow-x: hidden!important
+    overflow-x: hidden!important;
+    padding-top: 20px;
 } 
 
 /* body { padding-top: 40px; } */
