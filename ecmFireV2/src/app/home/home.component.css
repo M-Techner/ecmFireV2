@@ -45,13 +45,22 @@
 /* .carousel-inner > .carousel-item > .d-block {
     margin: auto;
 } */
-
-.carousel-inner > .carousel-item > .d-block {
-    margin: auto;
+/* 
+.carousel-inner > .carousel-item > 
+.d-block {
+    margin: auto; */
     /* margin-bottom: 20%; */
     /* padding-bottom: 12%; */
     /* max-height: auto;
     max-width: auto; */
+/* } */
+
+.d-block {
+    margin: auto; 
+    /* margin-bottom: 20%; */
+    /* padding-bottom: 12%; */
+    max-height: auto;
+    max-width: auto;
 }
 
 .hero { 
