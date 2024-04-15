@@ -7,7 +7,7 @@ footer {
     max-height: auto;
     position:fixed;
     bottom:0px;
-    padding-right: 5%;
+    /* padding-right: 3%; */
     
 }
 
@@ -21,7 +21,7 @@ footer {
 } */
 
 .logo {
-    max-width: 35%;
+    max-width: 30%;
     /* margin-left: 2%; */
 }
 
